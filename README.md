@@ -1,60 +1,25 @@
 # Laravel Web Blog
-> Short blurb about what your product does.
+> laravel 5.8.
 
 [![NPM Version][npm-image]][npm-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-this ia personal blog app i made using laravel framework.
+This is personal blog web app made using laravel framework.
 
 ![](header.png)
 
-## Installation
-
-OS X & Linux:
-
-```sh
-npm install my-crazy-module --save
-```
-
-Windows:
-
-```sh
-edit autoexec.bat
-```
-
-## Usage example
-
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
-
-_For more examples and usage, please refer to the [Wiki][wiki]._
-
 ## Development setup
-
-Describe how to install all development dependencies and how to run an automated test-suite of some kind. Potentially do this for multiple platforms.
+After cloning the repo,follow the following steps.
 
 ```sh
-make install
+Create a database for the application.
+npm install
 npm test
+php artisan serve
 ```
-
-## Release History
-
-* 0.2.1
-    * CHANGE: Update docs (module code remains unchanged)
-* 0.2.0
-    * CHANGE: Remove `setDefaultXYZ()`
-    * ADD: Add `init()`
-* 0.1.1
-    * FIX: Crash when calling `baz()` (Thanks @GenerousContributorName!)
-* 0.1.0
-    * The first proper release
-    * CHANGE: Rename `foo()` to `bar()`
-* 0.0.1
-    * Work in progress
-
 ## Meta
 
-Your Name – [@YourTwitter](https://twitter.com/dbader_org) – YourEmail@example.com
+Kenneth Irungu – [@YourTwitter](https://twitter.com/kennethirungu) – kennethirungu1800@gmail.com
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
@@ -62,7 +27,7 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 
 ## Contributing
 
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
+1. Fork it (<https://github.com/ken1800/Laravel-Blog/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
@@ -74,4 +39,4 @@ Distributed under the XYZ license. See ``LICENSE`` for more information.
 [npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
 [travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
 [travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
+[wiki]: https://github.com/ken1800/Larave-Blog/wiki
