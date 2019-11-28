@@ -19,11 +19,11 @@ php artisan serve
 ```
 ## Meta
 
-Kenneth Irungu – [@YourTwitter](https://twitter.com/kennethirungu) – kennethirungu1800@gmail.com
+Kenneth Irungu – [Twitter](https://twitter.com/kennethirungu) – kennethirungu1800@gmail.com
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
+Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[https://github.com/yourname/github-link](https://github.com/dbader/)
+[https://github.com/ken1800/github-link](https://github.com/ken1800/)
 
 ## Contributing
 
